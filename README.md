@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 🎓 Pursuing B.Tech in **Computer Science Engineering (Data Science)** at Malla Reddy Engineering College (2022–2026).  
-💡 Enthusiastic about **Machine Learning, Data Science, Blockchain, and Web Development**.  
-🌱 Currently enhancing my skills in **AI/ML and Full-Stack Development**.  
+💡 Passionate about **Machine Learning, Artificial Intelligence, Data Science, and Web Development**.  
+🌱 Currently building projects in **AI/ML and Full-Stack Development**.  
 🤝 Open to collaborations in **ML/AI, Data Analytics, and Web Projects**.  
 📫 Reach me at **akhileshyadav52361@gmail.com**.  
 
@@ -14,14 +14,28 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+  <!-- Data Science & ML -->
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+  <!-- Visualization -->
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
 </p>
@@ -37,15 +51,6 @@ AI-powered system that extracts and analyzes resumes, matches with job descripti
 
 💰 [**Expense Tracker**](https://github.com/Akhilesh-yadav680/Expenses_Tracker)  
 A personal finance tracker built with **Django + Pandas + SQLite**, providing spending insights and trends.  
-
----
-
-## 🎓 Certifications
-✔️ **Azure AI Fundamentals – Microsoft**  
-✔️ **Data Analytics Job Simulation – Deloitte**  
-✔️ **Python 101 for Data Science – IBM Cognitive Class**  
-✔️ **Cloud Computing Certification – NPTEL**  
-✔️ Internship as **Junior Developer at Skilltimate Technologies (May 2023)**  
 
 ---
 
