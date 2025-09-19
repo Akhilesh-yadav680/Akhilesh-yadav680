@@ -1,74 +1,71 @@
-<h1 align="center">Hi 👋, I'm Muddam Akhilesh Yadav</h1>
-<h3 align="center">B.Tech CSE (Data Science) | Aspiring Data Scientist | Developer</h3>
+# 👋 Hi, I'm Muddam Akhilesh Yadav
+
+> AI | Data Science | Machine Learning | Full Stack Developer  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=600&lines=AI+Enthusiast;Data+Scientist;Full+Stack+Developer;ML+Practitioner)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
-🎓 Pursuing B.Tech in **Computer Science Engineering (Data Science)** at Malla Reddy Engineering College (2022–2026).  
-💡 Passionate about **Machine Learning, Artificial Intelligence, Data Science, and Web Development**.  
-🌱 Currently building projects in **AI/ML and Full-Stack Development**.  
-🤝 Open to collaborations in **ML/AI, Data Analytics, and Web Projects**.  
-📫 Reach me at **akhileshyadav52361@gmail.com**.  
+- 🎓 B.Tech 4th Year | Data Science Student  
+- 💻 Building AI, ML, and Full Stack Projects  
+- 🌱 Currently exploring advanced **AI/ML techniques**, **Blockchain**, and **Web3**  
+- 🎯 Passionate about turning data into insights & creating impactful software  
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
-  <!-- Visualization -->
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F7931E?style=for-the-badge&logo=matplotlib&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge)
 
 ---
 
-## 📂 Featured Projects
-🔐 [**Cryptoproctor – Blockchain-Based Online Proctoring System**](https://github.com/Akhilesh-yadav680)  
-Secure exam monitoring platform using **Django, Blockchain, Web3, and IPFS** with immutable logs.  
+## 📂 Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| CryptoProctor | Blockchain-based online proctoring system | Python, Django, Blockchain |
+| Resume Screening AI | Automated resume ranking and screening | Python, ML, Pandas |
+| AI Data Analyst | Data analysis & visualization platform | Python, ML, Matplotlib, Seaborn |
+| Stock Market Analysis | Predictive analytics for stock trends | Python, Pandas, ML |
+| Expense Tracker | Personal finance tracking application | Python, Django, SQL |
 
-📄 [**Resume Screening System**](https://github.com/Akhilesh-yadav680/CVAnalyzer)  
-AI-powered system that extracts and analyzes resumes, matches with job descriptions, and ranks candidates.  
-
-💰 [**Expense Tracker**](https://github.com/Akhilesh-yadav680/Expenses_Tracker)  
-A personal finance tracker built with **Django + Pandas + SQLite**, providing spending insights and trends.  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh-yadav680&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh-yadav680&theme=radical" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilesh-yadav680&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+> [View All Projects →](https://github.com/MuddamAkhileshYadav?tab=repositories)
 
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:akhileshyadav52361@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muddam-akhilesh-yadav-0a71a932b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Akhilesh-yadav680"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muddam-akhilesh-yadav)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+
+---
+
+## ✨ Extras
+- 💬 **Dev Quote of the Day**:  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+- 🎵 **Currently Listening (Spotify)**:  
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem)](https://open.spotify.com/user/yourspotifyid)  
+
+- 🏆 **Achievements & Certifications**:  
+  - AI & ML Certifications (Coursera, Udemy, etc.)  
+  - Blockchain Development Certificate  
+  - Full Stack Development Projects  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuddamAkhileshYadav&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuddamAkhileshYadav&layout=compact&theme=radical)
