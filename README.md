@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <!-- Replace below URL with your uploaded banner image -->
-  <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/banner.png?raw=true" alt="Banner" />
+  
+  <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muddam Akhilesh Yadav</h1>
