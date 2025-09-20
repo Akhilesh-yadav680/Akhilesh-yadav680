@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png" 
        alt="Banner" 
-       width="50" 
-       height="50"/>
+       width="120" 
+       height="90"/>
 </p>
 
 
