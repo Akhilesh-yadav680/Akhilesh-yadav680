@@ -2,6 +2,8 @@
 <p align="center">
   
   <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png" alt="Banner" />
+  <img src="..." alt="Banner" width="900" height="250"/>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Muddam Akhilesh Yadav</h1>
