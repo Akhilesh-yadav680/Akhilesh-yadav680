@@ -1,8 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  
-  <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png"  />
-  <img src="..." alt="Banner" width="400" height="60"/>
+  <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png" 
+       alt="Banner" 
+       width="400" 
+       height="50"/>
+</p>
+
 
 </p>
 
