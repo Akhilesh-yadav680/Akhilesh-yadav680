@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muddam Akhilesh Yadav</h1>
-<h3 align="center">B.Tech CSE (Data Science) | Aspiring Data Scientist | Developer</h3>
+<h3 align="center">B.Tech CSE (Data Science) | Aspiring Data Scientist | Developer|AI Agents</h3>
 
 <p align="center"><em>
   "Simplicity is the soul of efficiency." – Austin Freeman
