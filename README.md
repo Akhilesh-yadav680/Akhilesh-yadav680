@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <!-- Replace below URL with your custom banner if available -->
-  <img src="https://leviarista.github.io/github-profile-header-generator/?username=Akhilesh-yadav680&theme=dark" alt="Banner" />
+  <!-- Replace below URL with your uploaded banner image -->
+  <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png?raw=true" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muddam Akhilesh Yadav</h1>
@@ -62,6 +62,9 @@ AI-powered system that extracts and analyzes resumes, matches with job descripti
 💰 [**Expense Tracker**](https://github.com/Akhilesh-yadav680/Expenses_Tracker)  
 A personal finance tracker built with <b>Django + Pandas + SQLite</b>, providing spending insights and trends.  
 
+🌐 [**My Portfolio**](https://yourportfolio.com)  
+Explore my projects, skills, and contact info in detail.
+
 ---
 
 ## 📊 GitHub Stats
@@ -82,6 +85,7 @@ A personal finance tracker built with <b>Django + Pandas + SQLite</b>, providing
   <a href="mailto:akhileshyadav52361@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muddam-akhilesh-yadav-0a71a932b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Akhilesh-yadav680"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
