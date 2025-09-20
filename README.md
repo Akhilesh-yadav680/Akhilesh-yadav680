@@ -62,7 +62,7 @@ AI-powered system that extracts and analyzes resumes, matches with job descripti
 💰 [**Expense Tracker**](https://github.com/Akhilesh-yadav680/Expenses_Tracker)  
 A personal finance tracker built with <b>Django + Pandas + SQLite</b>, providing spending insights and trends.  
 
-🌐 [**My Portfolio**](https://yourportfolio.com)  
+🌐 [**My Portfolio**](https://github.com/Akhilesh-yadav680/Portfolio)  
 Explore my projects, skills, and contact info in detail.
 
 ---
