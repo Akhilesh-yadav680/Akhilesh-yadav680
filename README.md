@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png" 
        alt="Banner" 
-       width="120" 
+       width="140" 
        height="90"/>
 </p>
 
