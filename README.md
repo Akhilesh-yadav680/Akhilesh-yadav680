@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=Akhilesh-yadav680&label=Profile+Views)
+
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/Akhilesh-yadav680/Akhilesh-yadav680/blob/main/banner.png" 
