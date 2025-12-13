@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech CSE (Data Science)</b><br/>
-  Aspiring Data Scientist | Machine Learning Engineer | AI Developer
+  Aspiring Data Scientist | Machine Learning Engineer | AI Developer| Web Developer
 </p>
 
 <p align="center">
