@@ -18,41 +18,50 @@ I work with Python, Machine Learning, and Data Analysis to build practical, real
 Currently preparing for software and data-related roles.
 
 ---
-
-## Skills & Technologies
+## ⚙️ Skills & Technologies
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=E11D48)
-![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=2563EB)
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=F97316)
-![CSS](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=2563EB)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=FACC15)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
 ### Data Science & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-ffffff?style=for-the-badge&logo=google&logoColor=34A853)
-![Data Science](https://img.shields.io/badge/Data_Science-ffffff?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![NumPy](https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=013243)
-![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=150458)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=3F4F75)
-![Seaborn](https://img.shields.io/badge/Seaborn-ffffff?style=for-the-badge&logo=python&logoColor=3776AB)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+</p>
 
 ### Databases & Visualization
-![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![DBMS](https://img.shields.io/badge/DBMS-ffffff?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=1F77B4)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>
+</p>
 
-### Core CS
-![Data Structures](https://img.shields.io/badge/Data_Structures-ffffff?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-ffffff?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-ffffff?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+### Core Computer Science
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="40"/>
+</p>
 
 ### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20)
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+
 
 ---
 
@@ -69,7 +78,7 @@ Currently preparing for software and data-related roles.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akhilesh-yadav680&show_icons=true&theme=github_light&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh-yadav680l&theme=github_light&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhilesh-yadav680&theme=github_light&hide_border=true" width="48%" />
 </p>
 
 ---
