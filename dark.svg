@@ -420,36 +420,6 @@
   <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
   <text x="1130" y="491.5" class="pill-text" text-anchor="middle">React</text>
 </g>
-      <g class="skill-pill" style="animation-delay:1.85s">
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-bg"/>
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
-  <text x="1130" y="491.5" class="pill-text" text-anchor="middle">N8N</text>
-</g>
-      <g class="skill-pill" style="animation-delay:1.85s">
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-bg"/>
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
-  <text x="1130" y="491.5" class="pill-text" text-anchor="middle">Django</text>
-</g>
-      <g class="skill-pill" style="animation-delay:1.85s">
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-bg"/>
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
-  <text x="1130" y="491.5" class="pill-text" text-anchor="middle">Blockchain</text>
-</g>
-      <g class="skill-pill" style="animation-delay:1.85s">
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-bg"/>
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
-  <text x="1130" y="491.5" class="pill-text" text-anchor="middle">PowerBI</text>
-</g>
-      <g class="skill-pill" style="animation-delay:1.85s">
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-bg"/>
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
-  <text x="1130" y="491.5" class="pill-text" text-anchor="middle">Tableau</text>
-</g>
-      <g class="skill-pill" style="animation-delay:1.85s">
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-bg"/>
-  <rect x="1090" y="474" width="80" height="26" rx="13" class="pill-border"/>
-  <text x="1130" y="491.5" class="pill-text" text-anchor="middle">Figma</text>
-</g>
     </g>
 
     <rect x="1" y="1" width="1178" height="608" rx="31" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
