@@ -49,6 +49,12 @@
     <clipPath id="roundedCanvas">
       <rect x="0" y="0" width="1180" height="610" rx="22"/>
     </clipPath>
+    <clipPath id="leftPanelClip">
+      <rect x="14" y="14" width="424" height="582" rx="16"/>
+    </clipPath>
+    <clipPath id="rightPanelClip">
+      <rect x="10" y="14" width="708" height="582" rx="16"/>
+    </clipPath>
 
     <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#2563EB" stop-opacity="0"/>
@@ -162,13 +168,14 @@
     </rect>
 
     <!-- LEFT PANEL -->
-    <g>
+    <g clip-path="url(#leftPanelClip)">
       <rect x="14" y="14" width="424" height="582" rx="16" fill="#F8FAFC" fill-opacity="0.55" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
       <g transform="translate(121.1,166.0)">
-        <animateTransform attributeName="transform" type="translate"
-          values="121.1,166.0; 121.1,160.0; 121.1,166.0"
-          dur="6s" repeatCount="indefinite" additive="sum"/>
-        <text x="0" y="0.00" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">*****************++++++++++++*****************<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.0s" fill="freeze"/></text>
+        <g>
+          <animateTransform attributeName="transform" type="translate"
+            values="0,0; 0,-6; 0,0"
+            dur="6s" repeatCount="indefinite"/>
+          <text x="0" y="0.00" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">*****************++++++++++++*****************<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.0s" fill="freeze"/></text>
       <text x="0" y="8.97" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">************+++++++++++++++++++++++***********<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.045s" fill="freeze"/></text>
       <text x="0" y="17.94" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">********++++++++++++++=====++++++++++++*******<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.09s" fill="freeze"/></text>
       <text x="0" y="26.90" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">*****++++++++=========+*++======++++++++++++**<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.135s" fill="freeze"/></text>
@@ -199,14 +206,15 @@
       <text x="0" y="251.10" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">=+@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@%@@<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.26s" fill="freeze"/></text>
       <text x="0" y="260.07" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">=*@@@@@@@%%%%%%%%%@%#%%%%%%%%%%%@@%@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.305s" fill="freeze"/></text>
       <text x="0" y="269.04" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="7.6" xml:space="preserve" fill="url(#asciiGrad)" opacity="0">=#@@@@@@@%%%%%%%%%@%%%%%%%%%%%%@@%%@@@@@@@@@@@<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.35s" fill="freeze"/></text>
-        <rect x="0" y="282.008" width="7" height="7.6" fill="#06B6D4">
-          <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-        </rect>
+          <rect x="0" y="282.008" width="7" height="7.6" fill="#06B6D4">
+            <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+          </rect>
+        </g>
       </g>
     </g>
 
     <!-- RIGHT PANEL -->
-    <g transform="translate(448,0)">
+    <g transform="translate(448,0)" clip-path="url(#rightPanelClip)">
       <rect x="10" y="14" width="708" height="582" rx="16" fill="#F8FAFC" fill-opacity="0.55" stroke="rgba(15,23,42,.08)" stroke-width="1"/>
 
       <text x="30" y="55" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="20" fill="#0F172A" opacity="0">
